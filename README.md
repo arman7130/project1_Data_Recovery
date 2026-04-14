@@ -1,2 +1,9 @@
-# project1_Data_Recovery
-A hands-on project demonstrating how deleted files can still be recovered by scanning underlying data, highlighting key concepts of data persistence and digital forensics.
+Lost Data Retrieval Project
+
+This project demonstrates how deleted data can still be recovered by scanning raw data.
+
+Tools:
+- Python
+
+Concept:
+Deleted files are not immediately erased from disk.
